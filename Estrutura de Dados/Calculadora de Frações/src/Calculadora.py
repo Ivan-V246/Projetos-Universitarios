@@ -1,4 +1,5 @@
 from fraction import Fraction
+import os;
 
 def divZero():
     print("Operação inválida! Não é possível dividir por zero!")
@@ -133,7 +134,6 @@ def main():
                 print(f1, compara(f1>f2), "diferente de ", f2, sep = "");
 
 
-import os;
 r = 1;
 while(r == 1):
     limpa();
