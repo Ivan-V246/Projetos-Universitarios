@@ -4,7 +4,7 @@ import nltk
 nltk.download('stopwords')
 stopwords = nltk.corpus.stopwords.words('portuguese')
 
-with open("Arquivo_de_texto.txt", 'r') as arquivo:
+with open("texto.txt", 'r') as arquivo:
     texto = arquivo.read()
 
 texto = texto.lower()
