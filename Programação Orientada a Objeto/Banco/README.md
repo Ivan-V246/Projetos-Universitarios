@@ -30,7 +30,7 @@ _____
 _____
 #### Métodos
 
-&nbsp;Cedito(double) -> Aumenta o saldo da conta no valor desejado.
+&nbsp;*Credito*(double) -> Aumenta o saldo da conta no valor desejado.
 
 &nbsp;*Debito*(double) -> Reduz o saldo da conta no valor desejado. 
 
