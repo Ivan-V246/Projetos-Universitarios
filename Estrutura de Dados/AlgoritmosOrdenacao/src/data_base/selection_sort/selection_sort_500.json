@@ -1,0 +1,27 @@
+[
+    {
+        "algoritmo": "selection_sort_500",
+        "quantidade_palavras": 500,
+        "tempo": 701.796875
+    },
+    {
+        "algoritmo": "selection_sort_500",
+        "quantidade_palavras": 500,
+        "tempo": 699.765625
+    },
+    {
+        "algoritmo": "selection_sort_500",
+        "quantidade_palavras": 500,
+        "tempo": 698.84375
+    },
+    {
+        "algoritmo": "selection_sort_500",
+        "quantidade_palavras": 500,
+        "tempo": 700.3125
+    },
+    {
+        "algoritmo": "selection_sort_500",
+        "quantidade_palavras": 500,
+        "tempo": 700.90625
+    }
+]

@@ -1,0 +1,27 @@
+[
+   {
+        "algoritmo": "quick_sort_250",
+        "quantidade_palavras": 250,
+        "tempo": 0.09375
+    },
+    {
+        "algoritmo": "quick_sort_250",
+        "quantidade_palavras": 250,
+        "tempo": 0.09375
+    },
+    {
+        "algoritmo": "quick_sort_250",
+        "quantidade_palavras": 250,
+        "tempo": 0.078125
+    },
+    {
+        "algoritmo": "quick_sort_250",
+        "quantidade_palavras": 250,
+        "tempo": 0.078125
+    },
+    {
+        "algoritmo": "quick_sort_250",
+        "quantidade_palavras": 250,
+        "tempo": 0.09375
+    }
+]

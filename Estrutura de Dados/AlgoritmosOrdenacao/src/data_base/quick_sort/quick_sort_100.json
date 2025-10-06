@@ -1,0 +1,27 @@
+[   
+    {
+        "algoritmo": "quick_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 0.03125
+    },
+    {
+        "algoritmo": "quick_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 0.03125
+    },
+    {
+        "algoritmo": "quick_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 0.03125
+    },
+    {
+        "algoritmo": "quick_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 0.03125
+    },
+    {
+        "algoritmo": "quick_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 0.03125
+    }
+]

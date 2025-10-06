@@ -1,0 +1,27 @@
+[
+    {
+        "algoritmo": "insertion_sort_250",
+        "quantidade_palavras": 250,
+        "tempo": 310.375
+    },
+    {
+        "algoritmo": "insertion_sort_250",
+        "quantidade_palavras": 250,
+        "tempo": 298.5
+    },
+    {
+        "algoritmo": "insertion_sort_250",
+        "quantidade_palavras": 250,
+        "tempo": 301.765625
+    },
+    {
+        "algoritmo": "insertion_sort_250",
+        "quantidade_palavras": 250,
+        "tempo": 301.28125
+    },
+    {
+        "algoritmo": "insertion_sort_250",
+        "quantidade_palavras": 250,
+        "tempo": 297.84375
+    }
+]

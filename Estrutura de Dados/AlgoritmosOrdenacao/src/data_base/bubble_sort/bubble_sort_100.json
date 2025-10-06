@@ -1,0 +1,27 @@
+[  
+    {
+        "algoritmo": "bubble_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 61.4375
+    },
+    {
+        "algoritmo": "bubble_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 63.15625
+    },
+    {
+        "algoritmo": "bubble_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 60.8125
+    },
+    {
+        "algoritmo": "bubble_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 56.40625
+    },
+    {
+        "algoritmo": "bubble_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 56.421875
+    }
+]

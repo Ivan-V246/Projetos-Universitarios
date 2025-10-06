@@ -1,0 +1,27 @@
+[
+    {
+        "algoritmo": "merge_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 0.09375
+    },
+    {
+        "algoritmo": "merge_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 0.09375
+    },
+    {
+        "algoritmo": "merge_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 0.078125
+    },
+    {
+        "algoritmo": "merge_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 0.09375
+    },
+    {
+        "algoritmo": "merge_sort_100",
+        "quantidade_palavras": 100,
+        "tempo": 0.09375
+    }
+]
